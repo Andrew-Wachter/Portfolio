@@ -8,7 +8,7 @@ Hi there! I'm Andrew Wachter — a passionate analyst focused on problem solving
 
 💻 Projects I’m proud of:  
 - [🛫Commercial Aerospace Market One-Pager](https://github.com/Andrew-Wachter/Commercial-Aerospace-Market/commit/bec80647f9f08093e2e2f22b66fd995dc32de97b)
-- [Aerospace Dashboard](
+- [🚀Aerospace Dashboard](https://github.com/Andrew-Wachter/Commercial-Aerospace-Market/tree/main)
 - [🟩 🟨 ⬛ Wordle recreated in Excel](https://github.com/Andrew-Wachter/Wordle/raw/refs/heads/main/Wordle.xlsx)   Just for fun. No cheating!
 
 📫 How to reach me:  
